@@ -41,7 +41,7 @@ export const ctrlGetAllUsers = async (req, res) => {
   export const ctrlGetOneUser= async (req, res)=>{
         try {
           const { id } = req.params;
-          const oneUsuario = await getOneUser.findOne({
+          const oneUsuario = await getOneUser({
               where: {
                   estado: true,
                   id,      

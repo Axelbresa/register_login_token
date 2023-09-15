@@ -35,7 +35,7 @@ const UserModel = sequelize.define(
 );
 
 export async function getOneUser () {
-  return await UserModel.findAll() ?? null
+  return await UserModel.findOne() ?? null
 }
 
 export async function getAllUsers () {

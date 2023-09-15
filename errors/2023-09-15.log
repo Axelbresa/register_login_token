@@ -1,0 +1,33 @@
+15/9/2023 13:35:08-Error: {"Error":"Error de prueba","status":500}
+    at file:///C:/Users/Usuario1/Documents/Trab.taller-lenguajes/backend_crud_log/app.js:62:14
+    at Layer.handle [as handle_request] (C:\Users\Usuario1\Documents\Trab.taller-lenguajes\backend_crud_log\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Users\Usuario1\Documents\Trab.taller-lenguajes\backend_crud_log\node_modules\express\lib\router\route.js:144:13)
+    at Route.dispatch (C:\Users\Usuario1\Documents\Trab.taller-lenguajes\backend_crud_log\node_modules\express\lib\router\route.js:114:3)
+    at Layer.handle [as handle_request] (C:\Users\Usuario1\Documents\Trab.taller-lenguajes\backend_crud_log\node_modules\express\lib\router\layer.js:95:5)
+    at C:\Users\Usuario1\Documents\Trab.taller-lenguajes\backend_crud_log\node_modules\express\lib\router\index.js:284:15
+    at Function.process_params (C:\Users\Usuario1\Documents\Trab.taller-lenguajes\backend_crud_log\node_modules\express\lib\router\index.js:346:12)
+    at next (C:\Users\Usuario1\Documents\Trab.taller-lenguajes\backend_crud_log\node_modules\express\lib\router\index.js:280:10)
+    at logger (C:\Users\Usuario1\Documents\Trab.taller-lenguajes\backend_crud_log\node_modules\morgan\index.js:144:5)
+    at Layer.handle [as handle_request] (C:\Users\Usuario1\Documents\Trab.taller-lenguajes\backend_crud_log\node_modules\express\lib\router\layer.js:95:5)
+15/9/2023 13:36:15-Error: {"Error":"Error de prueba","status":500}
+    at file:///C:/Users/Usuario1/Documents/Trab.taller-lenguajes/backend_crud_log/app.js:62:14
+    at Layer.handle [as handle_request] (C:\Users\Usuario1\Documents\Trab.taller-lenguajes\backend_crud_log\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Users\Usuario1\Documents\Trab.taller-lenguajes\backend_crud_log\node_modules\express\lib\router\route.js:144:13)
+    at Route.dispatch (C:\Users\Usuario1\Documents\Trab.taller-lenguajes\backend_crud_log\node_modules\express\lib\router\route.js:114:3)
+    at Layer.handle [as handle_request] (C:\Users\Usuario1\Documents\Trab.taller-lenguajes\backend_crud_log\node_modules\express\lib\router\layer.js:95:5)
+    at C:\Users\Usuario1\Documents\Trab.taller-lenguajes\backend_crud_log\node_modules\express\lib\router\index.js:284:15
+    at Function.process_params (C:\Users\Usuario1\Documents\Trab.taller-lenguajes\backend_crud_log\node_modules\express\lib\router\index.js:346:12)
+    at next (C:\Users\Usuario1\Documents\Trab.taller-lenguajes\backend_crud_log\node_modules\express\lib\router\index.js:280:10)
+    at logger (C:\Users\Usuario1\Documents\Trab.taller-lenguajes\backend_crud_log\node_modules\morgan\index.js:144:5)
+    at Layer.handle [as handle_request] (C:\Users\Usuario1\Documents\Trab.taller-lenguajes\backend_crud_log\node_modules\express\lib\router\layer.js:95:5)
+15/9/2023 13:38:49-Error: {"Error":"Error de prueba","status":500}
+    at file:///C:/Users/Usuario1/Documents/Trab.taller-lenguajes/backend_crud_log/app.js:62:14
+    at Layer.handle [as handle_request] (C:\Users\Usuario1\Documents\Trab.taller-lenguajes\backend_crud_log\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Users\Usuario1\Documents\Trab.taller-lenguajes\backend_crud_log\node_modules\express\lib\router\route.js:144:13)
+    at Route.dispatch (C:\Users\Usuario1\Documents\Trab.taller-lenguajes\backend_crud_log\node_modules\express\lib\router\route.js:114:3)
+    at Layer.handle [as handle_request] (C:\Users\Usuario1\Documents\Trab.taller-lenguajes\backend_crud_log\node_modules\express\lib\router\layer.js:95:5)
+    at C:\Users\Usuario1\Documents\Trab.taller-lenguajes\backend_crud_log\node_modules\express\lib\router\index.js:284:15
+    at Function.process_params (C:\Users\Usuario1\Documents\Trab.taller-lenguajes\backend_crud_log\node_modules\express\lib\router\index.js:346:12)
+    at next (C:\Users\Usuario1\Documents\Trab.taller-lenguajes\backend_crud_log\node_modules\express\lib\router\index.js:280:10)
+    at logger (C:\Users\Usuario1\Documents\Trab.taller-lenguajes\backend_crud_log\node_modules\morgan\index.js:144:5)
+    at Layer.handle [as handle_request] (C:\Users\Usuario1\Documents\Trab.taller-lenguajes\backend_crud_log\node_modules\express\lib\router\layer.js:95:5)
